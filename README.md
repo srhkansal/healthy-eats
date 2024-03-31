@@ -21,8 +21,8 @@ Healthy Eats is a nutritional scanner and recipe recommender application designe
 
 ## Tech Stack
 
-- **Frontend**: HTML/CSS, JavaScript (for web application) / Flutter (for mobile application)
-- **Backend**: Node.js (Express.js) / Django (Python)
+- **Frontend**: React Native / Flutter (for mobile application)
+- **Backend**: Python
 - **Database**: MongoDB / SQLite
 - **Barcode Scanning API**: ZXing (for web) / ML Kit (for mobile)
 - **Nutritional Information API**: USDA FoodData Central API / Edamam Nutrition Analysis API
